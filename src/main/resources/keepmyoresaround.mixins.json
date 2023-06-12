@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "codes.dreaming.keepmyoresaround.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "keepmyoresaround.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

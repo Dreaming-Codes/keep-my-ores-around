@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="MIT"
+
+[[mods]]
+modId="keepmyoresaround"
+version = "${version}"
+displayName="keepmyoresaround"
+displayURL="https://dreaming.codes"
+authors="DreamingCodes"
+description=""
+
+[[dependencies.keepmyoresaround]]
+   modId="forge"
+   mandatory=true
+   versionRange = "[${forge_version},)"
+   ordering="NONE"
+   side="BOTH"
+
+[[dependencies.keepmyoresaround]]
+   modId="minecraft"
+   mandatory=true
+   versionRange = "[${mc_version}]"
+   ordering="NONE"
+   side="BOTH"
