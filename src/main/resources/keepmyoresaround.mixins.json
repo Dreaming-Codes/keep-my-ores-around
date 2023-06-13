@@ -5,6 +5,8 @@
   "compatibilityLevel": "JAVA_8",
   "refmap": "keepmyoresaround.refmap.json",
   "mixins": [
+    "GlowstoneFeature",
+    "OreFeature"
   ],
   "client": [
   ],
